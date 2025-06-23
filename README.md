@@ -1,6 +1,8 @@
 # 🚀 Reference Architecture for this tutorial
 # We will be provisioning below architecture using AWS CDK L1 construct with Python
 
+![AWS VPC Architecture](images/AWSCDKL1ConstructArchitectureDiagram.png)
+
 +---------------------------------------------------------+
 |                   AWS VPC: 172.40.0.0/16                |
 |                                                         |
